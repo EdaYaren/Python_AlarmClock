@@ -12,9 +12,11 @@ Uygulamanın geliştirilmesinde kullanılan Python kütüphaneleri:
 ## 🚀 Nasıl Kullanılır?
 
 1. Uygulamayı başlatın.
-2. "When to wake you up:" başlığı altında tarih ve saat bilgilerinizi girin.
-3. "Click Me" butonuna tıklayarak alarmınızı kurun.
-4. Belirlediğiniz zamanda alarmınız çalacaktır.
+   ### GUI:
+   <img src="AlarmClockGui.png" alt="Alarm Clock GUI" width="600" height="400">
+3. "When to wake you up:" başlığı altında tarih ve saat bilgilerinizi girin.
+4. "Click Me" butonuna tıklayarak alarmınızı kurun.
+5. Belirlediğiniz zamanda alarmınız çalacaktır.
 
 ## Notlar ⚠️
 
